@@ -1,14 +1,17 @@
 # Pizza Sales Optimization, Menu Reforming, and Inventory Management
 
+![Image Alt Text](https://images3.alphacoders.com/104/thumb-1920-1041781.jpg)
+
 ## Table of Contents
 1. [Introduction](#introduction)  
-2. [Dataset Description](#dataset-description)  
-3. [Key Metrics and Insights](#key-metrics-and-insights)  
-4. [Project Objectives](#project-objectives)  
-5. [Analysis Conducted](#analysis-conducted)  
-6. [Tools and Technologies](#tools-and-technologies)  
-7. [How to Use the Project](#how-to-use-the-project)  
-8. [Conclusion](#conclusion)
+2. [Dataset Description](#dataset-description)
+3. [Project Objectives](#project-objectives)
+4. [Analysis Conducted](#analysis-conducted)
+5. [Tools and Technologies](#tools-and-technologies)  
+6. [Key Metrics and Insights](#key-metrics-and-insights)
+7. [Recommendations](#recommendations)
+8. [How to Use the Project](#how-to-use-the-project)  
+9. [Conclusion](#conclusion)
 
 ## Introduction
 This project involves analyzing historical sales data from a pizza shop to gain insights into customer preferences, operational performance, and revenue trends. The dataset, sourced from Maven Analytics, consists of four interconnected tables capturing order, product, and sales information.
